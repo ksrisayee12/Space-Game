@@ -123,7 +123,7 @@ function setup() {
   rightkey.addImage(rightimage)
   rightkey.scale=0.15
   
-  leftkey = createSprite(windowWidth+(-870), windowHeight-450)
+  leftkey = createSprite(windowWidth+(-900), windowHeight-450)
   leftkey.addImage(leftimage)
   leftkey.scale=0.20
   
