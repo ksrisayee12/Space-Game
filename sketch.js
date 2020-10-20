@@ -119,11 +119,11 @@ function setup() {
   rocket.scale = 0.18;
   score = 0;
  
-  rightkey = createSprite(windowWidth+(-90), windowHeight-450)
+  rightkey = createSprite(windowWidth+(-70), windowHeight-450)
   rightkey.addImage(rightimage)
   rightkey.scale=0.15
   
-  leftkey = createSprite(windowWidth+(-1000), windowHeight-450)
+  leftkey = createSprite(windowWidth+(-1850), windowHeight-450)
   leftkey.addImage(leftimage)
   leftkey.scale=0.20
   
